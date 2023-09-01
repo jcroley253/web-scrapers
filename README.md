@@ -9,6 +9,7 @@
 
 </div>
 
-## **ABOUT THIS PROJECT**
+## **About this project**
+--------------------------
 This repo contains a collection of web scrapers I have put together as side projects for learning purposes.
 ---
